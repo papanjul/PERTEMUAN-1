@@ -1,0 +1,10 @@
+E:\22.11.4832\Pertemuan 9\02 Tugas Lab Delegate dan Event\Tugas\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\22.11.4832\Pertemuan 9\02 Tugas Lab Delegate dan Event\Tugas\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\22.11.4832\Pertemuan 9\02 Tugas Lab Delegate dan Event\Tugas\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\22.11.4832\Pertemuan 9\02 Tugas Lab Delegate dan Event\Tugas\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\22.11.4832\Pertemuan 9\02 Tugas Lab Delegate dan Event\Tugas\Calculator\Calculator\obj\Debug\Calculator.FrmHitungCalculator.resources
+E:\22.11.4832\Pertemuan 9\02 Tugas Lab Delegate dan Event\Tugas\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\22.11.4832\Pertemuan 9\02 Tugas Lab Delegate dan Event\Tugas\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\22.11.4832\Pertemuan 9\02 Tugas Lab Delegate dan Event\Tugas\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\22.11.4832\Pertemuan 9\02 Tugas Lab Delegate dan Event\Tugas\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\22.11.4832\Pertemuan 9\02 Tugas Lab Delegate dan Event\Tugas\Calculator\Calculator\obj\Debug\Calculator.pdb
