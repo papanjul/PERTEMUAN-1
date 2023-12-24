@@ -1,0 +1,6 @@
+E:\22.11.4832\Pertemuan 5\Tugas5\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.dll
+E:\22.11.4832\Pertemuan 5\Tugas5\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.pdb
+E:\22.11.4832\Pertemuan 5\Tugas5\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csprojAssemblyReference.cache
+E:\22.11.4832\Pertemuan 5\Tugas5\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csproj.CoreCompileInputs.cache
+E:\22.11.4832\Pertemuan 5\Tugas5\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.dll
+E:\22.11.4832\Pertemuan 5\Tugas5\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.pdb
