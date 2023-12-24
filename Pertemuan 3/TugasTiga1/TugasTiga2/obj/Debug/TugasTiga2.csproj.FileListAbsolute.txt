@@ -1,0 +1,10 @@
+E:\22.11.4832\Pertemuan 3\TugasTiga1\TugasTiga2\bin\Debug\TugasTiga2.exe.config
+E:\22.11.4832\Pertemuan 3\TugasTiga1\TugasTiga2\bin\Debug\TugasTiga2.exe
+E:\22.11.4832\Pertemuan 3\TugasTiga1\TugasTiga2\bin\Debug\TugasTiga2.pdb
+E:\22.11.4832\Pertemuan 3\TugasTiga1\TugasTiga2\obj\Debug\TugasTiga2.csprojAssemblyReference.cache
+E:\22.11.4832\Pertemuan 3\TugasTiga1\TugasTiga2\obj\Debug\TugasTiga2.frmTulisanBerjalan.resources
+E:\22.11.4832\Pertemuan 3\TugasTiga1\TugasTiga2\obj\Debug\TugasTiga2.Properties.Resources.resources
+E:\22.11.4832\Pertemuan 3\TugasTiga1\TugasTiga2\obj\Debug\TugasTiga2.csproj.GenerateResource.cache
+E:\22.11.4832\Pertemuan 3\TugasTiga1\TugasTiga2\obj\Debug\TugasTiga2.csproj.CoreCompileInputs.cache
+E:\22.11.4832\Pertemuan 3\TugasTiga1\TugasTiga2\obj\Debug\TugasTiga2.exe
+E:\22.11.4832\Pertemuan 3\TugasTiga1\TugasTiga2\obj\Debug\TugasTiga2.pdb
