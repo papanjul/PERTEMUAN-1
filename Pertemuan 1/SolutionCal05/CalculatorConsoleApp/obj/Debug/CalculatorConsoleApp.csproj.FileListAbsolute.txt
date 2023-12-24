@@ -1,0 +1,10 @@
+E:\22.11.4832\Pertemuan 1\SolutionCal05\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+E:\22.11.4832\Pertemuan 1\SolutionCal05\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+E:\22.11.4832\Pertemuan 1\SolutionCal05\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+E:\22.11.4832\Pertemuan 1\SolutionCal05\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csprojAssemblyReference.cache
+E:\22.11.4832\Pertemuan 1\SolutionCal05\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+E:\22.11.4832\Pertemuan 1\SolutionCal05\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+E:\22.11.4832\Pertemuan 1\SolutionCal05\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
+E:\22.11.4832\Pertemuan 1\SolutionCal05\CalculatorConsoleApp\bin\Debug\CalculatorMachine.dll
+E:\22.11.4832\Pertemuan 1\SolutionCal05\CalculatorConsoleApp\bin\Debug\CalculatorMachine.pdb
+E:\22.11.4832\Pertemuan 1\SolutionCal05\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CopyComplete

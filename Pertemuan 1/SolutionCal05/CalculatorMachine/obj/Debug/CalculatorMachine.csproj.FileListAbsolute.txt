@@ -1,0 +1,6 @@
+E:\22.11.4832\Pertemuan 1\SolutionCal05\CalculatorMachine\bin\Debug\CalculatorMachine.dll
+E:\22.11.4832\Pertemuan 1\SolutionCal05\CalculatorMachine\bin\Debug\CalculatorMachine.pdb
+E:\22.11.4832\Pertemuan 1\SolutionCal05\CalculatorMachine\obj\Debug\CalculatorMachine.csprojAssemblyReference.cache
+E:\22.11.4832\Pertemuan 1\SolutionCal05\CalculatorMachine\obj\Debug\CalculatorMachine.csproj.CoreCompileInputs.cache
+E:\22.11.4832\Pertemuan 1\SolutionCal05\CalculatorMachine\obj\Debug\CalculatorMachine.dll
+E:\22.11.4832\Pertemuan 1\SolutionCal05\CalculatorMachine\obj\Debug\CalculatorMachine.pdb
